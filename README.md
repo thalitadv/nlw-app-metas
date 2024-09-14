@@ -18,7 +18,9 @@ Atualmente, o sistema não possui uma interface gráfica, interações são real
 - **JavaScript**: Linguagem de programação utilizada no desenvolvimento do aplicativo.
 - **File System (fs) Promises API**: Módulo do Node.js para manipulação de arquivos de forma assíncrona.
 
-## Pré-requisitos
+## Como executar
+
+**Pré-requisitos**
 
 Para rodar este projeto, você precisará do seguinte:
 
@@ -29,7 +31,4 @@ Para rodar este projeto, você precisará do seguinte:
 1. Clone o repositório: git clone https://github.com/thalitadv/nlw-app-metas
 2. Navegue até o diretório do projeto: cd nlw-app-metas
 3. npm install inquirer
-   
-**Para executar**
-
-- node index.js 
+4. Para iniciar: node index.js 
